@@ -35,3 +35,6 @@ every application secured from the get go. Now I know that by looking at the Arc
 thinking well these are dead simple and probably not going to change the world and you might be right. 
 Although understand this, it's the start of something much bigger and will most likely turn in to a Linux Distro as some point.
 Despite just being a bunch of quick and dirty not yet Alpha worthy scripts to get something done.
+
+# Need Support?
+/k\ /e\ /i\ /t\ /h\ /.\ /s\ /m\ /i\ /t\ /h\ /@\ /u\ /n\ /s\ /e\ /e\ /n\ /.\ /i\ /s\
