@@ -168,7 +168,7 @@ cat confs/etc-zsh-zprofile > /mnt/etc/zsh/zprofile
 cat confs/etc-zsh-zshrc > /mnt/etc/zsh/zshrc
 cat confs/post-install.sh > /mnt/root/post-install.sh
 
-echo "Copying over Firware..."
+echo "Copying over Generated Keys..."
 mkdir /mnt/etc/keys
 cp drives/var-key /mnt/etc/keys/
 cp drives/swap-key /mnt/etc/keys/
