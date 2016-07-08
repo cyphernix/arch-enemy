@@ -19,7 +19,7 @@ In my oppinion this leaves a system vulnerable to potential exploitation during 
 dangerous world of Advanced Persistant Threats, Insider threats, Weapons Grade Malware and attacks targeting hardware manufactures
 firmware. It's never been more important to change how we deploy systems and think about systems security. Not only that but as we shift 
 in to a DevOps based approach of continuos intergration more needs to be done at securing systems not only on the application configuration 
-layer but also the Kernel, Process, Container/VM, Hardware and Network level.
+layer but also the Kernel, Process, Container/VM and Hardware level.
 
 One distro that is focusing on a lot of this is Qubes with it's Privilege seperation based off Xen Hypervisors. 
 Yet it's still not enough in my mind. Privilege seperation and Anti-Ironmaid is a very good start however. 
