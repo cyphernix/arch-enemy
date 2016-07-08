@@ -34,3 +34,4 @@ Do away with failing cryptographic standards, bad default configurations of appl
 every application secured from the get go. Now I know that by looking at the Arch-Enemy scripts as of writing this you are probably
 thinking well these are dead simple and probably not going to change the world and you might be right. 
 Although understand this, it's the start of something much bigger and will most likely turn in to a Linux Distro as some point.
+Despite just being a bunch of quick and dirty not yet Alpha worthy scripts to get something done.
