@@ -16,3 +16,6 @@ So where and how do we proceed? Well we stack all the odds in our favor as much 
 
 # Need Support?
 /k\ /e\ /i\ /t\ /h\ /.\ /s\ /m\ /i\ /t\ /h\ /@\ /u\ /n\ /s\ /e\ /e\ /n\ /.\ /i\ /s\
+
+# Pizza and Beer donations...
+BTC :13oo9b7AYQYWsuFaMbQkkQr28UV8cmNzqa
