@@ -1,4 +1,4 @@
-# arch-enemy
+# Arch-Enemy
 Arch Linux installation, security hardening and automatic deployment setup scripts. 
  
 As many Arch Linux users will tell you the Distro itself is build around the concept of Keep it Simple Stupid (KISS). Therefore by default it is minimal and bloat free as much as you want it to be and I like that about it. Bloat kills! Although as a distro I found it somewhat painstaking to make the changes I would need in order to get a fully functional system, up and running after reinstalling. Without typing in a mountain of commands and modifying loads of configuration files to get it how I wanted. That brings me to my next point. What did I want? 
