@@ -4,7 +4,7 @@
 @@define LOGDIR /var/log/aide
 
 # The location of the database to be read.
-database=file:@@{DBDIR}/aide.initial.db.gz
+database=file:@@{DBDIR}/aide.db.initial.gz
 
 # The location of the database to be written.
 #database_out=sql:host:port:database:login_name:passwd:table
